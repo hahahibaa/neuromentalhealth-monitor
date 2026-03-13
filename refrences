@@ -1,0 +1,21 @@
+1️⃣ Alpha/Beta and Theta/Beta Ratio Stress Paper
+
+📄 EEG stress analysis on alpha/beta ratio and theta/beta ratio (paper)
+
+Key points from the paper:
+
+Stress detection uses Alpha/Beta ratio and Theta/Beta ratio.
+
+EEG signals are converted to frequency features using FFT and Power Spectral Density (PSD).
+
+These ratios change significantly when a person is stressed.
+
+Important finding:
+
+Lower Alpha/Beta ratio → higher stress
+
+Lower Theta/Beta ratio → higher stress
+
+This is one of the most commonly cited metrics for EEG stress detection.
+
+we have used this paper to diffrencite the raw signals from the bio amp exg pill to diffrenciate freq between alpha and beta waves.
